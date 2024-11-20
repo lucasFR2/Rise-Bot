@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "lucas",
+    "cpf": "15301209698",
+    "endereco": "rua tal",
+    "telefone": "553488381132@s.whatsapp.net"
+  },
+  {
+    "nome": "joao",
+    "cpf": "123456",
+    "endereco": "rua AGA",
+    "telefone": "5534123456@s.whatsapp.net"
+  },
+  {
+    "nome": "fernanda",
+    "cpf": "12345678",
+    "endereco": "rua J",
+    "telefone": "553412345@s.whatsapp.net"
+  }
+]
