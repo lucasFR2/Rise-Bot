@@ -9,3 +9,4 @@ Esta automação para o WhatsApp foi criada para otimizar o tempo para atendimen
 - Clientes
 - Peças
 
+Caso queira utilizar o código, fique a vontade. Peço que dê os créditos a mim caso for utilizar, mesmo o código estar um pouco "bagunçado" e inacabado. 
